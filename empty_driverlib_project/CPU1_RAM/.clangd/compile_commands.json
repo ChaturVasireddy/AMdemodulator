@@ -1,17 +1,27 @@
 [
    {
       "directory" : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM",
-      "command"   : "clang++ -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project\" -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/device\" -I\"/Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM/syscfg\"",
+      "command"   : "clang++ -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project\" -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/device\" -I\"/Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
       "file"      : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/device/F2837xD_CodeStartBranch.asm"
    },
    {
       "directory" : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM",
-      "command"   : "clang++ -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project\" -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/device\" -I\"/Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM/syscfg\" -xc",
+      "command"   : "clang++ -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project\" -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/device\" -I\"/Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
       "file"      : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/device/device.c"
    },
    {
       "directory" : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM",
-      "command"   : "clang++ -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project\" -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/device\" -I\"/Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM/syscfg\" -xc",
+      "command"   : "clang++ -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project\" -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/device\" -I\"/Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
       "file"      : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/empty_driverlib_main.c"
+   },
+   {
+      "directory" : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project\" -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/device\" -I\"/Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project\" -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/device\" -I\"/Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/empty_driverlib_project/CPU1_RAM/syscfg/c2000ware_libraries.c"
    }
 ]
