@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 
-#define N 1024    // Number of samples
-#define FS 1000.0 // Sampling rate (Hz)
+#define N 1024
+#define FS 1000.0 
 
 #define PI 3.14159265358979323846
 
