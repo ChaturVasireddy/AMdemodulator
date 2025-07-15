@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ti_am_demodulator",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ti_am_demodulator",
+                "resourceId": "/ti_am_demodulator"
+            },
+            "launchSettings": {
+                "coresToLoadForProjectLaunch": [
+                    "C28xx_CPU1"
+                ]
+            }
+        }
+    ]
+}

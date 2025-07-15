@@ -1,0 +1,27 @@
+[
+   {
+      "directory" : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/CPU1_RAM",
+      "command"   : "clang++ -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator\" -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/device\" -I\"/Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/device/F2837xD_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/CPU1_RAM",
+      "command"   : "clang++ -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator\" -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/device\" -I\"/Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/device/device.c"
+   },
+   {
+      "directory" : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/CPU1_RAM",
+      "command"   : "clang++ -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator\" -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/device\" -I\"/Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/main.c"
+   },
+   {
+      "directory" : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/CPU1_RAM",
+      "command"   : "clang++ -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator\" -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/device\" -I\"/Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/CPU1_RAM",
+      "command"   : "clang++ -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator\" -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/device\" -I\"/Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/\" -I\"/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DCPU1 -I\"/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "/Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   }
+]
