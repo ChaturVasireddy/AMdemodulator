@@ -88,6 +88,10 @@ main.obj: /Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/drive
 main.obj: /Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/version.h
 main.obj: /Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/driver_inclusive_terminology_mapping.h
 main.obj: /Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/device/device.h
+main.obj: /Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include/math.h
+main.obj: /Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include/_defs.h
+main.obj: /Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include/machine/_limits.h
+main.obj: /Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include/complex.h
 
 ../main.c:
 
@@ -264,4 +268,12 @@ main.obj: /Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/t
 /Users/chaturvasireddy/ti/C2000Ware_5_05_00_00/driverlib/f2837xd/driverlib/driver_inclusive_terminology_mapping.h:
 
 /Users/chaturvasireddy/Documents/VScode/AMdemodulator/mcu_rt_testing/ti_am_demodulator/device/device.h:
+
+/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include/math.h:
+
+/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include/_defs.h:
+
+/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include/machine/_limits.h:
+
+/Applications/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include/complex.h:
 
